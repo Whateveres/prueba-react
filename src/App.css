@@ -1,0 +1,20 @@
+#root {
+    
+    h1 {
+        margin-top: 2rem;
+        margin-left: 41.5rem;
+    }
+
+    .search {
+        margin-bottom: 1rem;
+        padding: 5px;
+        width: 30%;
+        border-radius: 5px;
+    }
+
+    .card {
+        margin-top: 3rem;
+        margin-left: 35rem;
+        background: linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%);
+    }
+}
